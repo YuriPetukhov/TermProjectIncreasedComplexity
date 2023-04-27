@@ -120,6 +120,7 @@ public class Employee {
             System.out.println("--------------------------------------------------------------------");
         }
     }
+
     public static void increaseWage(Employee[] employeeBook, int percent) {
         float wage;
         for (int i = 0; i < counter - 1; i++) {
